@@ -1,0 +1,25 @@
+{
+  "name": "purescript-http-headers",
+  "homepage": "https://github.com/purescript-contrib/purescript-http-headers",
+  "description": "HTTP headers and status code types",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purescript-contrib/purescript-http-headers.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-either": "^0.2.3",
+    "purescript-generics": "^0.7.2",
+    "purescript-prelude": "^0.1.4",
+    "purescript-strings": "^0.7.1"
+  }
+}
